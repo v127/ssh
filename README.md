@@ -20,13 +20,21 @@ bash ssr.sh
 
 
 谷歌加速（每行单独输入）
+
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
 ls
+
 chmod +x bbr.sh
+
 ls
+
 执行
+
 ./bbr.sh
+
 按任意键开始
+
 重启
+
 Reboot
