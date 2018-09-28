@@ -4,7 +4,7 @@ https://git-scm.com/downloads
 ShadowsocksR
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 
-
+------------------------------------------------------------------
 
 
 打开 git-bash   （ctrl+H  删除）
